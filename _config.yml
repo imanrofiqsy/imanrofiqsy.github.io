@@ -12,27 +12,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: imanrofiqsy
 github_username:  imanrofiqsy
 
-# Additional icon links
-
-# About Section
-about_profile_image: images/Iman.jpg
-about_content: |
-  My name is Iman Rofiq Syamsul, and I am a recent graduate with a D4 degree in Mechatronics Engineering from Batam State Polytechnic. I have a strong interest in software and programming, particularly in embedded system programming, Windows Form applications, and PLC.
-
-content:
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Barelang FC
-        link: barelangfc.github.io
-        sub_title: Programmer
-        caption: 2020 - 2023
-        quote: >
-          Developing robot software
-        description: | 
-          Artificial Intelligence 
-
 # Build settings
 markdown: kramdown
 theme: minima
