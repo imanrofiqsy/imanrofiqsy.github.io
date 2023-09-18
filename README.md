@@ -1,1 +1,0 @@
-# imanrofiqsy.github.io
