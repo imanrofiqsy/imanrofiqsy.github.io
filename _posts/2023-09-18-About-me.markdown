@@ -1,6 +1,0 @@
----
-layout: post
-title: "i AM"
-data: 2023-09-18 10:45:00 -0000
-categories: about introduction
----
