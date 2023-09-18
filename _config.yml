@@ -16,6 +16,8 @@ github_username:  imanrofiqsy
 
 # About Section
 about_profile_image: images/Iman.jpg
+about_content: |
+  My name is Iman Rofiq Syamsul, and I am a recent graduate with a D4 degree in Mechatronics Engineering from Batam State Polytechnic. I have a strong interest in software and programming, particularly in embedded system programming, Windows Form applications, and PLC.
 
 # Build settings
 markdown: kramdown
